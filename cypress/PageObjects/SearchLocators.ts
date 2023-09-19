@@ -4,6 +4,7 @@ export class NavigationPage{
     private selectAndClickClass: string;
     private verifyTitleByIdClass: string;
 
+
     constructor(){
         this.searchFieldClass = '.si-field__placeholder';
         this.selectAndClickClass = '[class="si-ellipsed ng-star-inserted"]';
